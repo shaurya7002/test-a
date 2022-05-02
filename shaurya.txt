@@ -1,3 +1,9 @@
 hi this is shaurya
 hi this is SG
+<<<<<<< HEAD
 hi this is SHAURYAG
+=======
+hello
+>>>>>>> b90e795c918882ca6645001c9ba3fd3a20aae62b
+hi this is SGSGSGSGSGSGSGG
+asidhbaisuhvbfofhe bDFB
